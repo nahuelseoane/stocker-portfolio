@@ -1,0 +1,7 @@
+# Original tape capture and high-quality masters (shared via Drive, not hosted)
+*.mpg
+portfolio/
+.venv/
+
+# Scratch
+.DS_Store
