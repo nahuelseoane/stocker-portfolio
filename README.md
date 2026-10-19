@@ -2,7 +2,7 @@
 
 A browsable web archive of a late-1980s / 1990s Argentine TV advertising reel, restored from a single tape capture.
 
-**Live site:** https://nahuelseoane.github.io/stocker-portfolio/
+**Live site:** https://jnahuel.com/stocker-portfolio/
 
 ## What this is
 
